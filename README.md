@@ -1,11 +1,15 @@
-# LanguageDetectionApp
+# Real-Time Language Detection with Azure AI Language Service
 
-LanguageDetectionApp is an ASP.NET Core Razor Pages web application that detects the language of user-input text using Azure AI Text Analytics.
+Unlock the power of real-time language detection with Azure Cognitive Services! 🌍  
+In this step-by-step tutorial, we’ll show you how to quickly detect any language using Azure’s Language Detection API. Whether you're building a multilingual app or working on an AI Foundry coding test, this practical guide has you covered.
+
+## Overview
+
+This project demonstrates how to use the **Azure AI Language Service**—specifically, the **Language Detection** feature—to identify the language of any input text in real time. The app is built with ASP.NET Core Razor Pages and integrates directly with Azure AI Language Services for accurate and scalable language detection.
 
 ## Features
 
-- **Language Detection:** Enter any text and instantly detect its language using Azure Cognitive Services.
-- **Modern UI:** Clean, responsive interface styled with Bootstrap.
+- **Language Detection:** Enter any text and instantly detect its language using Azure AI Language Services.
 - **Azure Integration:** Uses Azure AI Text Analytics for accurate language detection.
 
 ## Project Structure
@@ -97,7 +101,8 @@ These are referenced in the project file ([LanguageDetectionApp.csproj](Language
 
 ## Screenshots
 
-> _Add screenshots of the UI here if desired._
+![image](https://github.com/user-attachments/assets/68302e49-bd2a-47b9-b3f5-f121fa77dcdf)
+
 
 ## License
 
