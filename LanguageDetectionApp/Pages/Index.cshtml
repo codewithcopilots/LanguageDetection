@@ -1,0 +1,45 @@
+﻿	@page
+	@model IndexModel
+	@{
+	    ViewData["Title"] = "Home page";
+	}
+	
+	<!-- Link to the CSS file -->
+<link rel="stylesheet" href="~/css/site.css" />
+	
+	<div class="text-center">
+	    <form method="post" id="languageForm">
+	        <div>
+	            <textarea name="UserText" rows="10" cols="100" class="user-textarea" placeholder="Enter text here...">
+	            @Model.UserText
+	        </textarea>
+	        </div>
+	        <br />
+	
+	        <!-- Button moved to the right -->
+	        <div class="button-container">
+	            <button type="submit" class="detect-button">
+	                <span class="button-text">Detect Language</span>
+	                <span class="loader" id="loader" style="display: none;"></span>
+	            </button>
+	        </div>
+
+	        <br />
+	
+	        <!-- Single line display -->
+	        <p class="detected-line">
+	            <span class="label">Detected Language:</span>
+	            <span class="detected-value">@ViewData["DetectedLanguage"]</span>
+	        </p>
+	    </form>
+	</div>
+	@section Scripts {
+	    <script>
+	        const form = document.getElementById("languageForm");
+	        const loader = document.getElementById("loader");
+	
+	        form.addEventListener("submit", () => {
+	            loader.style.display = "inline-block";
+	        });
+	    </script>
+	}

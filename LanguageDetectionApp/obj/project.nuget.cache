@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "F61awP9OCjSMRfJYCnAdEeCvgsRYUqsK4+XIruZtFGKuy3ENsM3B+WhISxcrvNXmv6pDI5fS4Ut1rTb3b3Svxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mukesh Kumar\\OneDrive\\Documents\\Azure AI Labs\\LanguageDetection\\LanguageDetectionApp\\LanguageDetectionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\azure.ai.textanalytics\\5.3.0\\azure.ai.textanalytics.5.3.0.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\azure.core\\1.33.0\\azure.core.1.33.0.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.5\\microsoft.extensions.configuration.fileextensions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.5\\microsoft.extensions.configuration.json.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.5\\microsoft.extensions.fileproviders.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.5\\microsoft.extensions.fileproviders.physical.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.5\\microsoft.extensions.filesystemglobbing.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.5\\microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\system.io.pipelines\\9.0.5\\system.io.pipelines.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\system.text.encodings.web\\9.0.5\\system.text.encodings.web.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\system.text.json\\9.0.5\\system.text.json.9.0.5.nupkg.sha512",
+    "C:\\Users\\Mukesh Kumar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
